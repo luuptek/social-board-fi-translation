@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AX Social Stream 3.4.8\n"
+"POT-Creation-Date: 2015-06-14 22:44+0330\n"
+"PO-Revision-Date: 2019-05-02 15:10+0300\n"
+"Language-Team: Axent Media <axentmedia@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: fi\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: admin\n"
+"X-Poedit-SearchPathExcluded-1: library\n"
+
+msgid "Tags"
+msgstr "Tagit"
+
+msgid "Posted"
+msgstr "Julkaistu"
+
+msgid "Show All"
+msgstr "Näytä kaikki"
+
+msgid "comments"
+msgstr "Kommentit"
+
+msgid "likes"
+msgstr "tykkäykset"
+
+msgid "repin"
+msgstr ""
+
+msgid "Load More"
+msgstr "Lataa lisää"
+
+msgid "a long while ago"
+msgstr "kauan aikaa sitten"
+
+msgid "over 2 years ago"
+msgstr "yli 2 vuotta sitten"
+
+msgid "over a year ago"
+msgstr "yli vuosi sitten"
+
+msgid "about a year ago"
+msgstr "noin vuosi sitten"
+
+msgid "%d months ago"
+msgstr "%d kuukautta sitten"
+
+msgid "last month"
+msgstr "viime kuussa"
+
+msgid "3 weeks ago"
+msgstr "3 viikkoa sitten"
+
+msgid "2 weeks ago"
+msgstr "2 viikkon sitten"
+
+msgid "last week"
+msgstr "viime viikolla"
+
+msgid "%d days ago"
+msgstr "%d päivää sitten"
+
+msgid "yesterday"
+msgstr "eilen"
+
+msgid "%d hours ago"
+msgstr "%d tuntia sitten"
+
+msgid "an hour ago"
+msgstr "tunti sitten"
+
+msgid "%d minutes ago"
+msgstr "%d minuuttia sitten"
+
+msgid "just now"
+msgstr "juuri nyt"
+
+msgid "read more (+)"
+msgstr "lue lisää (+)"
+
+msgid "read less (-)"
+msgstr "Lue vähemmän (-)"
+
+msgid "Search..."
+msgstr "Etsi…"
+
+msgid "Timeline photos"
+msgstr "Timeline kuvat"
+
+msgid "Added photos"
+msgstr "Lisätyt kuvat"
+
+msgid "Shared story"
+msgstr "Jakoi tarinan"
+
+msgid "Created note"
+msgstr "Teki muistion"
+
+msgid "Mobile status update"
+msgstr "Mobiili päivitys"
+
+msgid "Added video"
+msgstr "Lisäsi videon"
+
+msgid "Wall post"
+msgstr ""
+
+msgid "Created event"
+msgstr "Loi tapahtuman"
+
+msgid "Show Comments"
+msgstr "Näytä kommentit"
+
+msgid "retweeted"
+msgstr "eetwiitattu"
